@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{562607E4-4A1D-40C9-ADFB-CB9EE1429062}|Padaria\\Padaria.csproj|c:\\users\\mateus.asantos27\\documents\\visual studio 2022\\empresatds01\\padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{562607E4-4A1D-40C9-ADFB-CB9EE1429062}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmMenuPrincipal.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmMenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:28:01.669Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
