@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{562607E4-4A1D-40C9-ADFB-CB9EE1429062}|Padaria\\Padaria.csproj|c:\\users\\mateus.asantos27\\documents\\visual studio 2022\\empresatds01\\padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{562607E4-4A1D-40C9-ADFB-CB9EE1429062}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{562607E4-4A1D-40C9-ADFB-CB9EE1429062}|Padaria\\Padaria.csproj|c:\\users\\mateus.asantos27\\documents\\visual studio 2022\\empresatds01\\padaria\\frmpesquisarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{562607E4-4A1D-40C9-ADFB-CB9EE1429062}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmpesquisarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562607E4-4A1D-40C9-ADFB-CB9EE1429062}|Padaria\\Padaria.csproj|c:\\users\\mateus.asantos27\\documents\\visual studio 2022\\empresatds01\\padaria\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{562607E4-4A1D-40C9-ADFB-CB9EE1429062}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmMenuPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmMenuPrincipal.cs [Design]",
-              "RelativeToolTip": "Padaria\\frmMenuPrincipal.cs [Design]",
+              "Title": "frmPesquisarFuncionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmPesquisarFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmPesquisarFuncionarios.cs",
+              "ToolTip": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmPesquisarFuncionarios.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmPesquisarFuncionarios.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:28:01.669Z",
+              "WhenOpened": "2025-03-20T14:27:15.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\mateus.asantos27\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:04:57.933Z",
               "EditorCaption": " [Design]"
             }
           ]

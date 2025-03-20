@@ -10,3 +10,5 @@ C:\Users\mateus.asantos27\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\
 C:\Users\mateus.asantos27\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmSplash.resources
 C:\Users\mateus.asantos27\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmLogin.resources
 C:\Users\mateus.asantos27\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmMenuPrincipal.resources
+C:\Users\mateus.asantos27\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmFuncionarios.resources
+C:\Users\mateus.asantos27\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmPesquisarFuncionarios.resources
